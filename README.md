@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **ANYTHING FRONT END**
 
--MY FIGMA PROFILE 
-
 - 📫 How to reach me **Vranjican.Ingrid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
