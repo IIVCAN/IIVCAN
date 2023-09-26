@@ -1,23 +1,25 @@
 
-<h1 align="center">Hi 👋, I'm Ingrid</h1>
-<h3 align="center">Web Developer || UX/UI DESIGNER</h3>
+<h1 align="left">Hi 👋, I'm ingrid</h1>
+<h3 align="left">Web Developer & UX|UI DESIGNER
+<h5 align="left">
 
-- 🔭 I’m currently working on [PROPLY](https://proply-6393eca59163.herokuapp.com/)
-  
-- 👩🏻‍💻 I am proficient in Ruby, Ruby on Rails, JavaScript, HTML and CSS
-  
-- Here Is my [Portfolio](https://iivcan.github.io/work/)
-  
-- ✨ Ask me about frontend & design 
+   🔭 I’m currently working on [PROPLY](https://proply-6393eca59163.herokuapp.com/)
 
-- 🌱 I’m currently learning **Python, ADOBE XD**
-
-- 📫 Message Me @ **Vranjican.Ingrid@gmail.com**
+   👩🏻‍💻 I am proficient in Ruby, Ruby on Rails, JavaScript, HTML and CSS
   
-- I'm also a photographer/editor 
+   👽 Here Is my [Portfolio](https://iivcan.github.io/work/)
+  
+  ✨ Ask me about frontend & design 
 
+  🌱 I’m currently learning **Python, ADOBE XD**
+
+  📫 Message Me @ **Vranjican.Ingrid@gmail.com**
+  
+  📸 I'm also a photographer/editor 
+  
+</h5>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="lelft">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ingrid-v-179b77203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ingrid-v-179b77203/" height="30" width="40" /></a>
 </p>
 
