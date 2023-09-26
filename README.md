@@ -6,7 +6,7 @@
   
 - 👩🏻‍💻 I am proficient in Ruby, Ruby on Rails, JavaScript, HTML and CSS
   
-- ✨ Ask me about forntend and design 
+- ✨ Ask me about frontend & design 
 
 - 🌱 I’m currently learning **Python, ADOBE XD**
 
