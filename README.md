@@ -4,10 +4,12 @@
 
 - 🔭 I’m currently working on [PROPLY](https://proply-6393eca59163.herokuapp.com/)
   
-- I am proficient in Ruby, Ruby on Rails, JavaScript, HTML and CSS
+- 👩🏻‍💻I am proficient in Ruby, Ruby on Rails, JavaScript, HTML and CSS
+  
+- ✨ Ask me about forntend and design 
 
 - 🌱 I’m currently learning **Python, ADOBE XD**
-
+- 
 - 📫 How to reach me **Vranjican.Ingrid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
