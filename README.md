@@ -3,12 +3,10 @@
 <h3 align="center">Web Developer || UX/UI DESIGNER</h3>
 
 - 🔭 I’m currently working on [PROPLY](https://proply-6393eca59163.herokuapp.com/)
+  
+- I am proficient in Ruby, Ruby on Rails, JavaScript, HTML and CSS
 
 - 🌱 I’m currently learning **Python, ADOBE XD**
-
-- 📝 I regularly write articles on [LINKEDIN](LINKEDIN)
-
-- 💬 Ask me about **ANYTHING FRONT END**
 
 - 📫 How to reach me **Vranjican.Ingrid@gmail.com**
 
