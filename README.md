@@ -6,11 +6,15 @@
   
 - 👩🏻‍💻 I am proficient in Ruby, Ruby on Rails, JavaScript, HTML and CSS
   
+- Here Is my [Portfolio](https://iivcan.github.io/work/)
+  
 - ✨ Ask me about frontend & design 
 
 - 🌱 I’m currently learning **Python, ADOBE XD**
 
 - 📫 Message Me @ **Vranjican.Ingrid@gmail.com**
+  
+- I'm also a photographer/editor 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
