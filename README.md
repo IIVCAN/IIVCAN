@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PROPLY](https://proply-6393eca59163.herokuapp.com/)
 
-- 🌱 I’m currently learning **Python, ADOBE XD**
+- 🌱 I’m currently learning FIGMA & JAVASCRIPT
 
 - 📝 I regularly write articles on [LINKEDIN](LINKEDIN)
 
