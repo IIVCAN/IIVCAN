@@ -7,8 +7,6 @@
 
    👩🏻‍💻 I am proficient in Ruby, Ruby on Rails, JavaScript, HTML and CSS
   
-   👽 Here Is my [Portfolio](https://iivcan.github.io/work/)
-  
   ✨ Ask me about frontend & design 
 
   🌱 I’m currently learning **Python, ADOBE XD**
