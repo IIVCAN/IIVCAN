@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ingrid</h1>
 <h3 align="center">Web Developer || UX/UI DESIGNER</h3>
 
-- 🔭 I’m currently working on [PROPLY](https://proply-6393eca59163.herokuapp.com/)
+- 🔭 My most recent project [PROPLY](https://proply-6393eca59163.herokuapp.com/)
+- 🏠 Air B n B clone app 👟 [SHOE B n B](https://airbnb-mul3nga-e6d0a96eb94a.herokuapp.com/)
 
 - 🌱 I’m currently learning FIGMA & JAVASCRIPT
 
