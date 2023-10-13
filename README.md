@@ -5,8 +5,8 @@
 - 🏠 Air B n B clone app 👟 [SHOE B n B](https://airbnb-mul3nga-e6d0a96eb94a.herokuapp.com/)
 
 - 🌱 I’m currently learning FIGMA & JAVASCRIPT
-
-- 📝 I regularly write articles on [LINKEDIN](LINKEDIN)
+  
+- 📸 I love photography and photo editing
 
 - 💬 Ask me about **ANYTHING FRONT END**
 
