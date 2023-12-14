@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ingrid</h1>
+<h1 align="center">Hi 👋, I'm Ingrid </h1>
 <h3 align="center">Web Developer || UX/UI DESIGNER</h3>
 
 - 🔭 My most recent project [PROPLY](https://proply-6393eca59163.herokuapp.com/)
